@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15449123-5e4e-463f-8292-7a8da000c31a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__com_univocity_univocity_parsers_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__commons_net_commons_net_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_scala_lang_scalap_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/modules/bigdata-example.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/src/main/scala/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/src/main/scala/example/Lists.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/example/src/test/scala/example/ListsSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__com_univocity_univocity_parsers_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__commons_net_commons_net_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_scala_lang_scalap_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/modules/bigdata-stackoverflow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/src/main/scala/stackoverflow/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/stackoverflow/src/test/scala/stackoverflow/StackOverflowSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__com_univocity_univocity_parsers_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__commons_net_commons_net_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_scala_lang_scalap_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/modules/bigdata-timeusage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/src/main/scala/timeusage/TimeUsage.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/timeusage/src/test/scala/timeusage/TimeUsageSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__com_univocity_univocity_parsers_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__commons_net_commons_net_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_scala_lang_scalap_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/modules/bigdata-wikipedia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/src/main/scala/wikipedia/WikipediaData.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Big_Data_Analysis_With_Scala_Spark/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/modules/progfun1-example.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/scalastyle/scalastyle_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/src/main/scala/example/Lists.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/src/main/scala/example/trial.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/example/src/test/scala/example/ListsSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/modules/progfun1-forcomp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/scalastyle/scalastyle_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/src/main/resources/forcomp/linuxwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/src/main/scala/forcomp/Anagrams.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/src/main/scala/forcomp/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/modules/progfun1-funsets.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/scalastyle/scalastyle_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/src/main/scala/funsets/FunSets.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/src/main/scala/funsets/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/funsets/src/test/scala/funsets/FunSetSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/modules/progfun1-objsets.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/scalastyle/scalastyle_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/src/main/scala/objsets/TweetData.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/src/main/scala/objsets/TweetReader.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/src/main/scala/objsets/TweetSet.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/objsets/src/test/scala/objsets/TweetSetSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/modules/progfun1-patmat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/scalastyle/scalastyle_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/src/main/scala/patmat/Huffman.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/patmat/src/test/scala/patmat/HuffmanSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/libraries/sbt__junit_junit_4_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/modules/progfun1-recfun.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/modules/root-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/assignment.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/CommonBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/Courses.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/GradingFeedback.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/ScalaTestRunner.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/Settings.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/StudentBuild.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/StudentBuildLike.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/StyleChecker.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/buildSettings.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/scalastyle/scalastyle_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/src/main/scala/common/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/src/main/scala/recfun/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/src/main/scala/recfun/check.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/src/test/scala/recfun/BalanceSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/src/test/scala/recfun/CountChangeSuite.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Functional_principles_of_scala/recfun/src/test/scala/recfun/PascalSuite.scala" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Aeospike-Write" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1882212127">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.9565" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="conf" value="1" />
+          <entry key="csv" value="2" />
+          <entry key="gitignore" value="2" />
+          <entry key="java" value="2" />
+          <entry key="json" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="sbt" value="6" />
+          <entry key="scala" value="8" />
+          <entry key="vmoptions" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="HOCON" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="1" />
+          <entry key="Scala" value="8" />
+          <entry key="sbt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="131" />
+          <entry key="gitignore" value="22" />
+          <entry key="properties" value="34" />
+          <entry key="sbt" value="66" />
+          <entry key="scala" value="4879" />
+          <entry key="vmoptions" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HOCON" value="131" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Properties" value="34" />
+          <entry key="Scala" value="4879" />
+          <entry key="sbt" value="66" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.doubleValue()</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
+        <option value="$PROJECT_DIR$/project/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/project/build.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/sample.csv" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/write.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/AsyncTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/SparkSessionWrapper.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/schema.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/AerospikeInsertionImsi.scala" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="y" value="-77" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Aeospike-Write" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aeospike-Write" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aeospike-Write" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aeospike-Write" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aeospike-Write" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aeospike-Write" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aeospike-Write" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aeospike-Write" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aeospike-Write" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aeospike-Write" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aeospike-Write" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aeospike-Write" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aeospike-Write" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aeospike-Write" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="aerospike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aeospike-Write" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aeospike-Write" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561435875988" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$/project/project/" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AsyncTest">
+    <configuration name="AsyncTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.airtel.spark.aerospike.AsyncTest" />
+      <module name="Aeospike-Write" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.airtel.spark.aerospike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="write" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.airtel.spark.aerospike.write" />
+      <module name="Aeospike-Write" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.airtel.spark.aerospike.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Aeospike-Write" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Aeospike-Write" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.write" />
+      <item itemvalue="Application.AsyncTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AsyncTest" />
+        <item itemvalue="Application.write" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Aeospike-Write" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="aeospike-write [file:/Users/b0206364/personal/coursera/scala_course/Aeospike-Write/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="aeospike-write-build [file:/Users/b0206364/personal/coursera/scala_course/Aeospike-Write/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3389256942" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2770995524" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3250841289" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2690981825" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../stackoverflow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../timeusage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wikipedia" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15449123-5e4e-463f-8292-7a8da000c31a" name="Default Changelist" comment="" />
+      <created>1558008165317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558008165317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="-77" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12886049" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38217822" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33663365" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32871288" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32970297" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="sbt" order="7" weight="0.32960597" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sample.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1072">
+          <caret line="141" column="58" selection-start-line="141" selection-start-column="58" selection-end-line="141" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/custom_lib/aerospike-spark-assembly-1.1.0.jar!/com/aerospike/spark/feature/FeatureKey.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/custom_lib/aerospike-spark-assembly-1.1.0.jar!/com/aerospike/client/async/AsyncClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="60" column="63" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.aerospike/aerospike-client/srcs/aerospike-client-4.4.0-sources.jar!/com/aerospike/client/async/AsyncCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.aerospike/aerospike-client/srcs/aerospike-client-4.4.0-sources.jar!/com/aerospike/client/async/AsyncBatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/custom_lib/aerospike-spark-assembly-1.1.0.jar!/com/aerospike/client/Host.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/custom_lib/aerospike-spark-assembly-1.1.0.jar!/com/aerospike/spark/sql/AerospikeConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/custom_lib/aerospike-spark-assembly-1.1.0.jar!/com/aerospike/client/policy/WritePolicy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/custom_lib/aerospike-spark-assembly-1.1.0.jar!/com/aerospike/client/async/AsyncClientPolicy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/SparkSessionWrapper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/custom_lib/aerospike-spark-assembly-1.1.0.jar!/com/aerospike/client/policy/Policy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/custom_lib/aerospike-spark-assembly-1.1.0.jar!/com/aerospike/client/policy/Priority.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/AsyncTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/write.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/airtel/spark/aerospike/AerospikeInsertionImsi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#36#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Aeospike-Write</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
